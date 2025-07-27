@@ -1,0 +1,24 @@
+=== Relatório de URLs Encontradas ===
+
+
+HTML_PAGES (0):
+
+ADMIN_PAGES (0):
+
+IMAGES (0):
+
+SCRIPTS (0):
+
+STYLESHEETS (0):
+
+DOCUMENTS (0):
+
+VIDEOS (0):
+
+AUDIO (0):
+
+ARCHIVES (0):
+
+APIS (0):
+
+OTHER (0):
